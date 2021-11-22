@@ -1,0 +1,22 @@
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.MAST.resources
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\Тая\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Form.resources
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.AssemblyReference.cache
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.SuggestedBindingRedirects.cache
+D:\Common (G)\Учеба)0)(((000\7 семестр (текущий)\Интеллектуальные системы\лабы\лаба1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.ResolveComReference.cache
